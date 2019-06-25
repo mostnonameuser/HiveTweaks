@@ -3,3 +3,14 @@ unpack archive to /home/user
 copy `h-run.sh` to /hive/miners/teamredminer
 succeed.
 Tweaks for Rx Vega 64, if you need other timings - change it in `tweak` file.
+
+
+
+for VERY LAZY PPL
+logging into Hive (user ENTER 1 ENTER =) )
+cd /home/user
+git clone https://github.com/mostnonameuser/HiveTweaks.git
+cd HiveTweaks
+tar -xvzf tweak.tar.gz -C /home/user
+cp /home/user/tweak/h-run.sh /hive/miners/teamredminer/h-run.sh
+... that's all 
