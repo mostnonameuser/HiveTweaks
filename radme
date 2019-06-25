@@ -1,1 +1,5 @@
-FastTweaksForHive
+git clone https://github.com/mostnonameuser/HiveTweaks.git
+unpack archive to /home/user 
+copy `h-run.sh` to /hive/miners/teamredminer
+succeed.
+Tweaks for Rx Vega 64, if you need other timings - change it in `tweak` file.
