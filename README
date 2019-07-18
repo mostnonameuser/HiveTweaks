@@ -15,4 +15,7 @@ tar -xvzf tweak.tar.gz -C /home/user
 cp /home/user/tweak/h-run.sh /hive/miners/teamredminer/h-run.sh
 ... that's all 
 
+for MORE lazy ppl) 
+cd /home/user
+git clone https://github.com/mostnonameuser/HiveTweaks.git
 Make 'lazy' file executable and run it! 
