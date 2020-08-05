@@ -20,6 +20,10 @@ cd /home/user
 git clone https://github.com/mostnonameuser/HiveTweaks.git
 Make 'lazy' file executable and run it! 
 
+ADDED Timings for 56th Vegas and ETH
+copy to console and run
+cd /home/user/tweak && echo "./amdmemtweak --CL 20 --RAS 22 --RCDRD 14 --RCDWR 12 --RC 36 --RP 14 --RRDS 3 --RRDL 6 --RTP 5 --FAW 12 --CWL 8 --WTRS 4 --WTRL 9 --WR 14 --REF 65000 --RFC 249" > tweak
+
 
 Для тех кто не пользуется переводчиком и не копирует строчки самостоятельно...
 Архив заточен под 64 веги и под 56 веги в 64 биосе с самсунг памятью
